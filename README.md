@@ -32,7 +32,7 @@ The goal of this dashboard is to transform raw customer data into actionable ins
 - 
 
 
-- Customer Demographics: Churn patterns by gender, geography, and credit score
+- Customer Demographics: Churn patterns by gender, age, tenure and credit score
 <img width="660" alt="Churn Project page 3" src="https://github.com/user-attachments/assets/ab8df8ed-90d9-4996-81b1-735d6c84c016" />
 
 
